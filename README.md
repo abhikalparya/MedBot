@@ -39,12 +39,6 @@ The **Multi-Agent Medical Assistant** is an **AI-powered chatbot** designed to a
 - **🌐 Real-time Web Search** for up-to-date medical insights  
 - **👨‍⚕️ Human-in-the-Loop Validation** to verify AI-based medical image diagnoses  
 
-### **What You’ll Learn from This Project** 📖  
-🔹 **👨‍💻 Multi-Agent Orchestration** with structured graph workflows  
-🔹 **🔍 Advanced RAG Techniques** – hybrid retrieval, semantic chunking, and vector search  
-🔹 **⚡ Confidence-Based Routing** & **Agent-to-Agent Handoff**  
-🔹 **🔒 Scalable, Production-Ready AI with Modularized Code & Robust Exception Handling**  
-
 ---
 
 ## 💫 Demo <a name="demo"></a>
